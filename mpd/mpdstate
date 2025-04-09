@@ -1,0 +1,30 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 1
+time: 242.192
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Broken Social Scene/You Forgot It in People/Broken Social Scene_You Forgot It in People_08_Cause = Time.flac
+1:Built to Spill/Perfect From Now On/Built to Spill_Perfect From Now On_02_I Would Hurt a Fly.flac
+2:__LESS - Crawl in the Blur [2025] [FLAC]/01 That Kind Of Man.flac
+3:__LESS - Crawl in the Blur [2025] [FLAC]/02 Bury the Pig.flac
+4:__LESS - Crawl in the Blur [2025] [FLAC]/03 Burn.flac
+5:__LESS - Crawl in the Blur [2025] [FLAC]/04 Stress Place.flac
+6:__LESS - Crawl in the Blur [2025] [FLAC]/05 Disappear.flac
+7:__LESS - Crawl in the Blur [2025] [FLAC]/06 My Sentence.flac
+8:__LESS - Crawl in the Blur [2025] [FLAC]/07 Crawl in the Blur.flac
+9:__LESS - Crawl in the Blur [2025] [FLAC]/08 The Reason.flac
+10:__LESS - Crawl in the Blur [2025] [FLAC]/09 Make Them Bleed.flac
+11:__LESS - Crawl in the Blur [2025] [FLAC]/10 The Pill.flac
+12:__LESS - Crawl in the Blur [2025] [FLAC]/11 Joy is Sad.flac
+13:__LESS - Crawl in the Blur [2025] [FLAC]/12 Can't run away from myself.flac
+playlist_end
